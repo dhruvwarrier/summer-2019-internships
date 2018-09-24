@@ -10,10 +10,10 @@ To contribute:
 Two-letter locations indicate states in the U.S.; countries other than the U.S. are spelled out. (Ex: CA = California, not Canada)
 
 ## Currently Open Applications
-| Name | Location | Application Period | Notes  | 
-|---|---|---|---|
+| Name | Location | Application Period | Notes  | Completed
+|---|---|---|---|---|
 | [Affirm](https://jobs.lever.co/affirm/ceb9ceef-cf1a-406d-b635-ba22470df7d6)  | CA | Present | |
-| [Airbnb](https://www.airbnb.com/careers/departments/position/1213896)  | CA | Present | |
+| [Airbnb](https://www.airbnb.com/careers/departments/position/1213896)  | CA | Present | |yes|
 | [Akuna Capital](https://akunacapital.com/careers)  | IL, MA | Present | Graduation date by Spring 2020; diverse listings that range from C# to C++, Python, Web, Quant dev, etc. |
 | [AllianceBernstein](https://www.linkedin.com/jobs/view/software-development-summer-internship-technology-operations-program-at-alliancebernstein-795432210/)  | NY| Present | Graduation date in Dec. 2019 or May/June 2020. |
 | [Altera](https://www.ziprecruiter.com/c/Altera/Job/Undergraduate-Intern-2019-Software-Engineering/-in-Santa-Clara,CA?ojob=2051ed1e1aa182542a76afdc45f164f5&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)  | CA | Present |  |
@@ -82,7 +82,7 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | [Lyft](https://www.lyft.com/careers/university-recruiting)  | CA, WA, NY, Germany | Present | | 
 | [Managed by Q](https://www.linkedin.com/jobs/view/software-engineer-internship-summer-2019-at-managed-by-q-827630644/)  | NY | Present | |
 | [Microsoft](https://careers.microsoft.com/us/en/job/473035/Internship-opportunities-for-students-Software-Engineering)  | Multiple | Present | |
-| [Explore Microsoft](https://careers.microsoft.com/us/en/job/475698/Internship-Opportunities-for-Students-Explore-Microsoft-Internship-Program)  | WA | Present | For college freshmen and sophomores. Experience both product manager/software engineer roles. |
+| [Explore Microsoft](https://careers.microsoft.com/us/en/job/475698/Internship-Opportunities-for-Students-Explore-Microsoft-Internship-Program)  | WA | Present | For college freshmen and sophomores. Experience both product manager/software engineer roles. |yes|
 | [MongoDB](https://www.mongodb.com/careers/jobs/1306593)  | NY | Present | |
 | [Morgan Stanley](https://www.linkedin.com/jobs/view/2019-technology-summer-analyst-program-new-york-at-morgan-stanley-692136510/)  | NY | Present | |
 | [Motorola](https://www.emprego.pt/en/jobs/show/software-engineering-2019-internship-chicago/28292808900579293750418544589?utm_medium=feed&utm_source=linkedin)  | IL | Present | No seniors |
@@ -132,7 +132,7 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | [Tumblr](https://oath.wd5.myworkdayjobs.com/careers/job/US---New-York-Broadway-770/Tumblr-Engineering-Intern_JR0006522) | NY | Present | |
 | [Twilio](https://www.twilio.com/jobs)  | CA | Present | Multiple positions, including PM |
 | [Twitch](https://jobs.lever.co/twitch/564f4325-6bff-466e-8b4c-b20fde00ac2c) | CA | Present | Must have completed sophomore year |
-| [Twitter](https://careers.twitter.com/en/work-for-twitter/201808/2019-university-application-full-time-internship.html)  | CA | Present | |
+| [Twitter](https://careers.twitter.com/en/work-for-twitter/201808/2019-university-application-full-time-internship.html)  | CA | Present | |yes|
 | [Twitter Academy](https://twitteracademy19.splashthat.com/) | CA | Present | For second-year students who are black, Hispanic/Latinx, or Native American.|
 | [Two Sigma](https://careers.twosigma.com/careers/Careers?jobId=4252&source=Direct+Applicant&tags=internshipinfographic)  | NY | Present | [Quantitative Research](https://careers.twosigma.com/careers/Careers?jobId=4357&source=Direct+Applicant&tags=internshipinfographic) position also available.|
 | [Uber](https://www.uber.com/careers/list/41577/)  | CA | Present | |
